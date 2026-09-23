@@ -7,8 +7,8 @@
 
 **Community:** Join [Discord](https://discord.gg/tANKJkHck) for discussions and support
 
-<p align="center"><a href="https://youtu.be/I5CV7i1_FxI"><img src="https://i.ytimg.com/vi/I5CV7i1_FxI/maxresdefault.jpg" width="720"></a></p>
-<p align="center"><a href="https://youtu.be/I5CV7i1_FxI"><b>▶ Watch: Free Claude AI Video Generator (via MCP) — Full Tutorial </b></a></p>
+<p align="center"><a href="https://youtu.be/zyKInYXBUJY"><img src="https://i.ytimg.com/vi/zyKInYXBUJY/maxresdefault.jpg" width="720"></a></p>
+<p align="center"><a href="https://youtu.be/zyKInYXBUJY"><b>▶ Watch: Free, Unlimited Face Swap API (Image + Video, Uncensored) </b></a></p>
 
 <p align="center">
   <a href="https://github.com/Anil-matcha/awesome-generative-ai-apps">
