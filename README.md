@@ -7,8 +7,8 @@
 
 **Community:** Join [Discord](https://discord.gg/tANKJkHck) for discussions and support
 
-<p align="center"><a href="https://youtu.be/zyKInYXBUJY"><img src="https://i.ytimg.com/vi/zyKInYXBUJY/maxresdefault.jpg" width="720"></a></p>
-<p align="center"><a href="https://youtu.be/zyKInYXBUJY"><b>▶ Watch: Free, Unlimited Face Swap API (Image + Video, Uncensored) </b></a></p>
+<p align="center"><a href="https://youtu.be/U-QApIUtT2k"><img src="https://i.ytimg.com/vi/U-QApIUtT2k/maxresdefault.jpg" width="720"></a></p>
+<p align="center"><a href="https://youtu.be/U-QApIUtT2k"><b>▶ Watch: 10 Insane Things Meta's New AI Agent Can Do (That Meta Didn't Ship) </b></a></p>
 
 <p align="center">
   <a href="https://github.com/Anil-matcha/awesome-generative-ai-apps">
