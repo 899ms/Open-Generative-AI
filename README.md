@@ -7,8 +7,8 @@
 
 **Community:** Join [Discord](https://discord.gg/tANKJkHck) for discussions and support
 
-<p align="center"><a href="https://youtu.be/U-QApIUtT2k"><img src="https://i.ytimg.com/vi/U-QApIUtT2k/maxresdefault.jpg" width="720"></a></p>
-<p align="center"><a href="https://youtu.be/U-QApIUtT2k"><b>▶ Watch: 10 Insane Things Meta's New AI Agent Can Do (That Meta Didn't Ship) </b></a></p>
+<p align="center"><a href="https://youtu.be/gO4HszsAuc4"><img src="https://i.ytimg.com/vi/gO4HszsAuc4/maxresdefault.jpg" width="720"></a></p>
+<p align="center"><a href="https://youtu.be/gO4HszsAuc4"><b>▶ Watch: Stop Paying Full Price for AI Videos You Hate — Seedance 2.5 Draft Mode </b></a></p>
 
 <p align="center">
   <a href="https://github.com/Anil-matcha/awesome-generative-ai-apps">
